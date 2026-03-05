@@ -1,4 +1,4 @@
-# Building-
+# Agentic
 
 MCP Data Query Builder (Project B)
 
